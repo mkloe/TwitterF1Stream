@@ -23,3 +23,8 @@
 - My part was Twitter API, streaming on the localhost, and real-time processing of tweets with PySpark. 
 - My colleagues did real-time saving into CSV file, enhanced filtering, and charts.
 - Our work was partially based on https://www.toptal.com/apache/apache-spark-streaming-twitter.
+
+## To-do
+- I can see areas for improvements: 
+  - the code could be better documented with markdown 
+  - one can rewrite from jupyter notebook into .py scripts
