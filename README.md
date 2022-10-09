@@ -20,6 +20,6 @@
 
 ## More information
 - It is a university project. 
-- My part was Twitter API, streaming on the localhost, and basic real-time processing of tweets with PySpark. 
-- My colleagues did real-time saving into CSV file and charts.
+- My part was Twitter API, streaming on the localhost, and real-time processing of tweets with PySpark. 
+- My colleagues did real-time saving into CSV file, enhanced filtering, and charts.
 - Our work was partially based on https://www.toptal.com/apache/apache-spark-streaming-twitter.
