@@ -18,7 +18,7 @@
 4. Run rest of cells `spark_processing.ipynb` for data visualisation.
 4. You can also change request params for twitter API endpoints in `Twitter_Setup.ipynb`.
 
-##More information
+## More information
 - It is a university project. 
 - My part was Twitter API, streaming on the localhost, and basic real-time processing of tweets with PySpark. 
 - My colleagues did real-time saving into CSV file and charts.
